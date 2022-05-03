@@ -1,5 +1,6 @@
-# Python-Expenses-Calculator
-##### A simple expenses calculator, built with Tkinter GUI and Python. 
+# Python Expenses Calculator
+#### A simple expenses calculator, built with Tkinter GUI and Python. 
+***
 #### How to use:
 + Clone this repo / save files to PC (make sure all files are in 1 folder)
 + Download [Git Bash Terminal](https://gitforwindows.org/)
@@ -9,7 +10,7 @@
 + Install tkinter using pip, console command:   ***pip install tk***
 + Run billscalccomplex.py in your console to launch appliction, console command:   ***py billscalccomplex.py*** <br>
 *make sure you are in the correct directory, Example:  cd C:\Downloads\Python-Expenses-Calculator
-
+***
 ![alt text][system]
 
 
